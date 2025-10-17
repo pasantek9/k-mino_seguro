@@ -1,0 +1,1 @@
+# k-mino_seguro
